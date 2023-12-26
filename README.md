@@ -18,6 +18,7 @@ Before running the app, make sure you have installed all the necessary libraries
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Important Note
 
@@ -28,6 +29,7 @@ You need to obtain a Mapbox token to use the mapping features. Once you have the
 To run the app locally, navigate to the app's directory and run:
 ```bash
 streamlit run app.py
+```
 
 ## How to Use
 
