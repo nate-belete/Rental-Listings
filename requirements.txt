@@ -7,3 +7,4 @@ numpy==1.24.3
 pydeck==0.8.1b
 bs4
 geopy
+streamlit_echarts
