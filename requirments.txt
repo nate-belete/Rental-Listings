@@ -1,9 +1,9 @@
-requests == 2.31.0
-pandas == 2.0.3
-streamlit == 1.29.0
-seaborn == 0.12.2
-matplotlib == 3.7.2
-numpy == 1.24.3
-pydeck == 0.8.1b
-bs4 == 4.12.2
-geopy == 2.4.1
+requests==2.31.0
+pandas==2.0.3
+streamlit==1.29.0
+seaborn==0.12.2
+matplotlib==3.7.2
+numpy==1.24.3
+pydeck==0.8.1b
+bs4==4.12.2
+geopy==2.4.1
