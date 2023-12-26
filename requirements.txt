@@ -5,5 +5,5 @@ seaborn==0.12.2
 matplotlib==3.7.2
 numpy==1.24.3
 pydeck==0.8.1b
-bs4==4.12.2
-geopy==2.4.1
+bs4
+geopy
